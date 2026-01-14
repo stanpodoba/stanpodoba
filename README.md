@@ -1,16 +1,25 @@
-## Hi there 👋
+![banner](.github/assets/banner.webp)
 
-<!--
-**stanpodoba/stanpodoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend Developer with 10+ years of experience, focused on Vue / Nuxt applications with strong attention to UX, code readability, and long-term maintainability.**
+I build clean, well-structured interfaces, document architectural decisions, and care about predictable behavior, scalability, and developer experience. I’ve worked on long-lived projects where code quality, documentation, and maintainability matter more than quick wins.
+
+### Technologies
+
+**Advanced**
+
+- HTML, CSS/SASS, JavaScript
+- Git — daily workflow
+- Figma, UX / UI — working closely with design and usability
+
+**Intermediate**
+
+- Vue / Nuxt — component-based architecture
+- SSR / SPA — real-world application experience
+- Node.js — basic backend and tooling
+- BEM — structured CSS methodology
+
+**Basic**
+
+- TypeScript — gradual adoption in frontend projects
